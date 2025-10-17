@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 I am Het Shah, a **Full Stack Software Developer** (specializing in **React** & **Node**) and **Competitive programmar**.
-- 🔭 I'm currently pursuing my Bachelor's in Information and Communication Technology with minor in Computational Scienc at DA-IICT, Gandhinagar.
+- 🔭 I'm currently pursuing my Bachelor's in Information and Communication Technology with minor in Computational Science at DA-IICT, Gandhinagar.
 - 👨‍💻 I enjoy solving problems using my problem solving and tech skills. I am exceptionally enthusiastic about learning new technology & take great pride in my ability to pick up skills swiftly.
 - 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Reading books**, **playing cricket** and **learning new languages**.
 - ✈️ I am in love with **traveling**! 
@@ -12,10 +12,11 @@
 
 ### Languages
 
-![C++](https://img.shields.io/badge/cpp-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Front-End Development
 
@@ -58,11 +59,8 @@
 
 ## 🌱 Currently Exploring
 
-- 🚀 Working and Exploring Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Node.js, a powerful javascript runtime environment.
+- 🚀 Exploring Full Stack Web Development using java and springboot
+  - Building server-side applications with springboot, a powerful java framework.
   - Diving into PostgreSQL & MongoDB for efficient and scalable database management.
 
   ## 📈 Stats
